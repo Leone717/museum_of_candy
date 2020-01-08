@@ -1,2 +1,7 @@
 # museum-of-candy
-A candy website  built with HTML, CSS and JavaScript
+
+This is a simple webpage sample using Html and CSS with Bootstrap. 
+
+Navs, Grid and Flexbox. 
+
+
